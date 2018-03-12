@@ -32,7 +32,7 @@
     A 10K pullup resistor should also be added between the PON pin at the receiver and Vcc 3.3V.
     If the HOST device is a 3.3V device no diode or 10K pullup resistor is needed.
 		
-		(C) Copyright 2017 Phil Morris <www.lydiard.plus.com>
+		(C) Copyright 2017 Phil Morris
 		
 		You are free to use this software for non-commercial purposes as long as this text
 		remains intact.
