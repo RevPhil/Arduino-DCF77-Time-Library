@@ -5,7 +5,7 @@
  * Adapted from the Arduino msfTime library Copyright 2014 Phil Morris
  * 
  * Version 3.0.0 (beta)
- * Copyright 2017 Phil Morris <www.lydiard.plus.com>
+ * Copyright 2018 Reverend Phil Morris
  * 
  * This software is in the Public Domain and can be used,
  * modified and copied as long as this text remains intact.
